@@ -1,4 +1,4 @@
-CREATE TABLE patient_exam(
+CREATE TABLE exame_done(
 PES_ID_PACIENTE int,
 DT_NASCIMENTO varchar,
 SEXO varchar,
